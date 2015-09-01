@@ -15,3 +15,4 @@
 | Iaggo  Correia   | Psicultura           | Ferramentas         | Não |
 | Leonardo Chemmes | Química Ambiental    | Tabelas e gráficos  | Não |
 | Mariana Fontura  | Monit. de Recifes    | Gráficos, Stats, BD | Sim |
+| Laís Souza       | Extração de HPAS     | Novas ferramentas   | Não |
